@@ -39,12 +39,12 @@
 ---
 
 <p align="left">
-  <img align="left" height = "220" src="https://github-readme-stats.vercel.app/api/top-langs?username=junayed-hasan&show_icons=true&locale=en&layout=compact" alt="junayed-hasan" />
+  <img align="left" height = "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=junayed-hasan&show_icons=true&locale=en&layout=compact" alt="junayed-hasan" />
 </p>
 
 
 <p align="right"> 
-  &nbsp;<img align="center" height = "220" src="https://github-readme-stats.vercel.app/api?username=junayed-hasan&show_icons=true&locale=en" alt="junayed-hasan" />
+  &nbsp;<img align="center" height = "200" src="https://github-readme-stats.vercel.app/api?username=junayed-hasan&show_icons=true&locale=en" alt="junayed-hasan" />
 </p>
 
 <br />
